@@ -1,0 +1,26 @@
+# Current time Tue May 17 21:45:20 2022
+# ModelSim Stack Trace
+# Program = vish
+# Id = "5.7g"
+# Version = "2003.10"
+# Date = "Oct 10 2003"
+# Platform = win32
+
+Exception c0000005 has occurred at address 0043dadb. Traceback:
+# 0    0x0043dadb: '<unknown (@0x43dadb)>'
+# 1    0x00453bc8: '<unknown (@0x453bc8)>'
+# 2    0x004539ab: '<unknown (@0x4539ab)>'
+# 3    0x00453229: '<unknown (@0x453229)>'
+# 4    0x10046a7a: 'TclServiceIdle + 0x4a'
+# 5    0x1003b1a4: 'Tcl_DoOneEvent + 0x124'
+# 6    0x00f3d73c: 'Tk_MainLoop + 0x14'
+# 7    0x00f5ce48: 'Tk_MainEx + 0x438'
+# 8    0x0042ec34: '<unknown (@0x42ec34)>'
+# 9    0x0042f149: '<unknown (@0x42f149)>'
+# 10   0x004ccb45: '<unknown (@0x4ccb45)>'
+# 11   0x7662fa29: '<unknown (@0x7662fa29)>'
+# 12   0x77587a7e: '<unknown (@0x77587a7e)>'
+# 13   0x77587a4e: '<unknown (@0x77587a4e)>'
+StackWalk failed 487
+# End of Stack Trace
+
